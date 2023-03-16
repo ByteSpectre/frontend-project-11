@@ -1,23 +1,16 @@
-# [RSS Aggregator](https://frontend-project-11-eta-one.vercel.app/)
+# [RSS aggregator](https://frontend-project-11-phi.vercel.app/)
 
-[![Actions Status](https://github.com/Moshi231/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/Moshi231/frontend-project-11/actions)
-<a href="https://codeclimate.com/github/Moshi231/frontend-project-11/maintainability"><img src="https://api.codeclimate.com/v1/badges/6c81c75f7d35d4b4d47f/maintainability" /></a>
-<a href="https://codeclimate.com/github/Moshi231/frontend-project-11/test_coverage"><img src="https://api.codeclimate.com/v1/badges/6c81c75f7d35d4b4d47f/test_coverage" /></a>
+[![Actions Status](https://github.com/Lena05k/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/Lena05k/frontend-project-11/actions)
+[![github action status](https://github.com/hexlet-boilerplates/webpack-package/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-boilerplates/webpack-package/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3e14e038eb2092a5a25d/maintainability)](https://codeclimate.com/github/Lena05k/frontend-project-11/maintainability)
 
 ### Description
-
 Simple feed aggregator, which collect RSS feeds and then watched for a new posts.
 
 ### To run locally on your machine (make sure that you have node.js and npm installed):
-
-### install dependencies and let your system run the package
-
+#### install dependencies and let your system run the package
 `make install`
-
-### build the webpack
-
+#### build the webpack
 `make build`
-
-### run the webpack on localhost
-
+#### run the webpack on localhost
 `make start`
