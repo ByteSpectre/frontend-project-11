@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lena05k/frontend-project-11.git"
+    "url": "git+https://github.com/Moshi231/frontend-project-11.git"
   },
-  "author": "krupoderova Elena",
+  "author": "Magomedov MagushS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lena05k/frontend-project-11/issues"
+    "url": "https://github.com/Moshi231/frontend-project-11/issues"
   },
-  "homepage": "https://github.com/Lena05k/frontend-project-11#readme",
+  "homepage": "https://github.com/Moshi231/frontend-project-11#readme",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/eslint-parser": "^7.19.1",
