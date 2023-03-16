@@ -1,3 +1,5 @@
-import bar from './bar.js';
+import 'bootstrap';
+import './style.scss';
+import app from './app.js';
 
-bar();
+app();
