@@ -1,0 +1,14 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Moshi231/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/Moshi231/frontend-project-11/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  }
+}
