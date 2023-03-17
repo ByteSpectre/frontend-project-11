@@ -1,23 +1,27 @@
-# [RSS aggregator](https://frontend-project-11-phi.vercel.app/)
+# RSS-reader (by Rinat_K)
 
-<a href="https://codeclimate.com/github/Moshi231/frontend-project-11/maintainability"><img src="https://api.codeclimate.com/v1/badges/6c81c75f7d35d4b4d47f/maintainability" /></a>
-<img src="https://github.com/Moshi231/frontend-project-11/workflows/hexlet-check/badge.svg">
-<a href="https://codeclimate.com/github/Moshi231/frontend-project-11/test_coverage"><img src="https://api.codeclimate.com/v1/badges/6c81c75f7d35d4b4d47f/test_coverage" /></a>
+The SPA application for the aggregation of RSS feeds.
 
-### Description
+[Link to app on Vercel](https://frontend-project-11-three-xi.vercel.app/)
 
-Simple feed aggregator, which collect RSS feeds and then watched for a new posts.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frinat-lucky%2Ffrontend-project-11)
 
-### To run locally on your machine (make sure that you have node.js and npm installed):
+----
 
-#### install dependencies and let your system run the package
+## Hexlet tests and linter status:
 
-`make install`
+[![Actions Status](https://github.com/rinat-lucky/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/rinat-lucky/frontend-project-11/actions)
 
-#### build the webpack
+[![Maintainability](https://api.codeclimate.com/v1/badges/67f9c21016144829d6c8/maintainability)](https://codeclimate.com/github/rinat-lucky/frontend-project-11/maintainability)
 
-`make build`
+[![Linter](https://github.com/rinat-lucky/frontend-project-11/actions/workflows/nodejs.yml/badge.svg)](https://github.com/rinat-lucky/frontend-project-11/actions/workflows/nodejs.yml)
 
-#### run the webpack on localhost
+## Installation
 
-`make start`
+To install RSS-reader locally:
+
+```sh
+git clone https://github.com/rinat-lucky/frontend-project-11.git
+cd frontend-project-11
+make install
+```
