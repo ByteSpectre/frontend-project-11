@@ -1,4 +1,4 @@
-# RSS-reader (by Rinat_K)
+# RSS-reader
 
 The SPA application for the aggregation of RSS feeds.
 
